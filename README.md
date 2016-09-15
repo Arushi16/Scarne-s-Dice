@@ -1,1 +1,2 @@
 # Scarne-s-Dice
+Scarne’s Dice is a turn-based dice game where players (you and CPU) score points by rolling a dice. If a player rolls to 1, no scores are given and he loses his turn. If the player rolls a 2 to 6 then the rolled value is added to his scores. The player can choose to either re-roll or keep their score(hold) and end their turn. The winner is the first player that reaches (or exceeds) 100 points.
